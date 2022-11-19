@@ -14,7 +14,7 @@ namespace random
 
             Random losuj = new Random();
             int x, a;
-            x = losuj.Next(10); 
+            x = losuj.Next(1000); 
             Console.WriteLine("Liczba wylosowana, zgaduj!");
 
             do
